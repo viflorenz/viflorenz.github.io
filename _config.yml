@@ -1,14 +1,4 @@
 remote_theme: jekyll-theme-phantom
 # Site settings
 title: viflorenz
-email: viflorenz@pm.me
-description: > # this means to ignore newlines until "baseurl:"
-  voy a aprender Python cuando Hadley lo haga.
-baseurl: "/example" # the subpath of your site, e.g. /blog/
-url: "http://viflorenz.github.io" # the base hostname & protocol for your site
-twitter_username: viflorenz
-github_username:  viflorenz
-
-# Build settings
-markdown: kramdown
-permalink: /:year/:title:output_ext
+<a href='https://l8qmzv-victoria-florenzano.shinyapps.io/MonitorSocial_RiesgosSocAmbientales/'target="_blank" rel="noopener noreferrer">'Ejemplo'</a>
